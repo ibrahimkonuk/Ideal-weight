@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ideal Kilo</string>
+    <string name="bay">Bay</string>
+    <string name="bayan">Bayan</string>
+    <string name="zayif">Zayıf durumdasınız.</string>
+    <string name="ideal">İdeal kilodasınız</string>
+    <string name="normalden_fazla">Normal kilodan fazla.</string>
+    <string name="fazla_kilolu">Fazla kilo.</string>
+    <string name="obez">Obez durumundasınız.</string>
+    <string name="doktora">Doktor tedavisi gerekli !</string>
+    <string name="tab1">İdeal Kilo</string>
+    <string name="tab2">İdeal Kilo Nedir</string>
+    <string name="buton_hesapla">Hesapla</string>
+</resources>
